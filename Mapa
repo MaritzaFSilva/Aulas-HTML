@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Corrida": "Início"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.17057466506958,
+          -32.17399602828458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Corrida": "Fim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.171926498413086,
+          -32.172633828861926
+        ]
+      }
+    }
+  ]
+}
